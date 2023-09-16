@@ -1,0 +1,128 @@
+{ "intents": [
+        {
+            "tag": "saludo",
+            "patterns": ["Hola"],
+            "responses": ["Hola! Estoy aqui para ayudarte. En que puedo asistirte hoy?"]
+        },
+        {
+            "tag": "comida1",
+            "patterns": ["Cuales son los alimentos mas saludables que puedo incluir en mi dieta?"],
+            "responses": ["Incluir frutas, verduras, granos enteros y proteinas."]
+        },
+        {
+            "tag": "comida2",
+            "patterns": ["Cual es la mejor manera de mantener una dieta equilibrada?"],
+            "responses": ["Consumir una variedad de alimentos en porciones adecuadas."]
+        },
+        {
+            "tag": "comida3",
+            "patterns": ["Que son los superalimentos y cuales deberia incluir en mi dieta? "],
+            "responses": ["Alimentos ricos en antioxidantes como bayas y aguacate."]
+        },
+        {
+            "tag": "comida4",
+            "patterns": ["Como puedo reducir mi consumo de azucar? "],
+            "responses": ["Evitar bebidas azucaradas y optar por alternativas mas saludables."]
+        },
+        {
+            "tag": "comida5",
+            "patterns": ["Cual es la importancia de la fibra en la dieta? "],
+            "responses": ["La fibra es esencial para la digestion."]
+        },
+        {
+            "tag": "comida6",
+            "patterns": ["Que consejos tienes para comer de manera mas consciente? "],
+            "responses": ["Comer conscientemente significa disfrutar cada bocado."]
+        },
+        {
+            "tag": "comida7",
+            "patterns": ["Cuales son algunas opciones de meriendas saludables? "],
+            "responses": ["Meriendas saludables como yogur, frutas y nueces."]
+        },
+        {
+            "tag": "comida8",
+            "patterns": ["Que dieta es mejor para perder peso de manera saludable? "],
+            "responses": ["No existe una dieta unica; debe adaptarse a tus necesidades."]
+        },
+        {
+            "tag": "comida9",
+            "patterns": ["Cuales son los beneficios de consumir pescado en la dieta? "],
+            "responses": ["El pescado es rico en proteinas y grasas saludables."]
+        },
+        {
+            "tag": "comida10",
+            "patterns": ["Como puedo controlar mis porciones durante las comidas? "],
+            "responses": ["Controlar porciones con platos más reducidos y atención a la saciedad."]
+        },
+        {
+            "tag": "comida11",
+            "patterns": ["Que son calorias vacias? "],
+            "responses": ["Calorias vacias provienen de alimentos poco nutritivos."]
+        },
+        {
+            "tag": "comida12",
+            "patterns": ["Que alimentos debo evitar si quiero llevar una dieta baja en grasas? "],
+            "responses": ["Evitar fritos, comida rapida y lacteos enteros en dietas bajas en grasas."]
+        },
+        {
+            "tag": "comida13",
+            "patterns": ["Cuales son algunas opciones de desayuno saludable? "],
+            "responses": ["Desayunos saludables incluyen avena y yogur con frutas."]
+        },
+        {
+            "tag": "comida14",
+            "patterns": ["Como puedo mantener la motivacion para comer de manera saludable? "],
+            "responses": ["Mantener la motivacion con metas y planificacion de comidas."]
+        },
+        {
+            "tag": "comida15",
+            "patterns": ["Que consejos tienes para reducir el consumo de alimentos procesados? "],
+            "responses": ["Reducir alimentos procesados con comidas caseras."]
+        },
+        {
+            "tag": "comida16",
+            "patterns": ["Cual es la importancia de beber suficiente agua en una dieta saludable? "],
+            "responses": ["El agua es esencial para la hidratacion y control del apetito."]
+        },
+        {
+            "tag": "comida17",
+            "patterns": ["Cual es la mejor manera de leer las etiquetas de los alimentos? "],
+            "responses": ["Leer etiquetas para conocer informacion nutricional."]
+        },
+        {
+            "tag": "comida18",
+            "patterns": ["Que alimentos son buenos para la salud del corazon? "],
+            "responses": ["Alimentos para la salud cardiaca incluyen pescado y nueces."]
+        },
+        {
+            "tag": "comida19",
+            "patterns": ["Como puedo satisfacer los antojos de comida poco saludable de manera mas saludable? "],
+            "responses": ["Satisfacer antojos con opciones mas saludables."]
+        },
+        {
+            "tag": "comida20",
+            "patterns": ["Cual es la relacion entre la alimentacion y la salud mental? "],
+            "responses": ["Alimentacion influye en la salud mental y estado de animo."]
+        },
+        {
+            "tag": "comida21",
+            "patterns": ["Que consejos tienes para comer bien cuando se come fuera de casa? "],
+            "responses": ["Comer fuera de casa: opciones a la parrilla y control de porciones."]
+        },
+        {
+            "tag": "comida22",
+            "patterns": ["Es necesario eliminar completamente los carbohidratos de la dieta? "],
+            "responses": ["No eliminar carbohidratos, elegir granos enteros."]
+        },
+        {
+            "tag": "comida23",
+            "patterns": ["Cual es el papel de las proteinas en la dieta? "],
+            "responses": ["Proteinas son esenciales para el crecimiento y reparacion."]
+        },
+        {
+            "tag": "comida24",
+            "patterns": ["Cual es la importancia de la planificacion de comidas? "],
+            "responses": ["Planificacion de comidas ayuda a mantener una dieta equilibrada."]
+        }
+    ]
+}
